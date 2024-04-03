@@ -1,1 +1,6 @@
-hello , my name is 3301(prime number)
+hello , my name is 3301(prime number
+#include<stdio.h>
+int main (){
+printf("Hello world");
+return 0;
+}
